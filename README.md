@@ -1,2 +1,2 @@
-# neighboorhoods
-Repository for #prjct-neighborhoods
+# Project Neighboorhoods
+Repository for Can't Stop Columbus #prjct-neighborhoods
